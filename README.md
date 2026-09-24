@@ -118,10 +118,10 @@ https://sinosk31-a11y.github.io/projects/project-02/
 
 📊 **Data Analytics Portfolio**
 
-🔹 Project 01 — Completed  
-🔹 Project 02 — Completed  
-🔹 Project 03 — In development  
-🔹 Project 04 — Planned
+🔹 Project 01 - Completed  
+🔹 Project 02 - Completed  
+🔹 Project 03 - In development  
+🔹 Project 04 - Planned
 
 I am continuously expanding the portfolio with practical projects using public datasets and reproducible analytical workflows.
 
