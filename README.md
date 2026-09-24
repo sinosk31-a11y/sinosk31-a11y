@@ -129,7 +129,7 @@ I am continuously expanding the portfolio with practical projects using public d
 
 ## Education & Certifications
 
-- Associate Degree in Computer Science — University of the People
+- Associate Degree in Computer Science - University of the People
 - Google Data Analytics
 - CompTIA A+
 
